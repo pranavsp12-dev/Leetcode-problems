@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

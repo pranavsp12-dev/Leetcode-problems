@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0682-baseball-game](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,4 +26,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

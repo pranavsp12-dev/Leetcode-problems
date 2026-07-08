@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0739-daily-temperatures) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

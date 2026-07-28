@@ -23,7 +23,7 @@
     int left=height(root->left);
     int right=height(root->right);
     d=max(d,left+right);
-    return 1+max(left,right);
+    return 1+max(left,right); // in terms of node not edges
  }
 int diameterOfBinaryTree(struct TreeNode* root) {
  d=0;

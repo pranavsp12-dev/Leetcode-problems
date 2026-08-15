@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Prefix Sum
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0141-linked-list-cycle) |

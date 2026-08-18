@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0283-move-zeroes) |
@@ -243,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

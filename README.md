@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0739-daily-temperatures) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |

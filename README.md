@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0136-single-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
@@ -248,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0136-single-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

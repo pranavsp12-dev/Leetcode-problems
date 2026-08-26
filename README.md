@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0169-majority-element) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Sorting
 |  |

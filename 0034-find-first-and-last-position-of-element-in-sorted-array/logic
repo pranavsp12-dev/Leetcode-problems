@@ -1,0 +1,3 @@
+ok so in this problem we need to find first and last occurance only. so for this the logic is we use binary search as we can see the array is in ascending order and also we need the sol in O(logn)
+So first we apply binary search until we find the first occurance so we create a variable called as first and search until l<=r is false. so we are moving towards left.
+the seconf binary search is for finding last occurance we need to keep moving right so thats why we do l=k+1.

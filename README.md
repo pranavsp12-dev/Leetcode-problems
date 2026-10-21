@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## String Matching
 |  |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Union-Find
 |  |
 | ------- |

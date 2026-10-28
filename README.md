@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0875-koko-eating-bananas) |
+| [1901-find-a-peak-element-ii](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/1901-find-a-peak-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/1901-find-a-peak-element-ii) |
 ## Union-Find
 |  |
 | ------- |

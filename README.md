@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0875-koko-eating-bananas) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 ## String
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0410-split-array-largest-sum](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -325,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->

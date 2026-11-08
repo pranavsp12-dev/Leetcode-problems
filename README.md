@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1021-remove-outermost-parentheses](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/pranavsp12-dev/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
